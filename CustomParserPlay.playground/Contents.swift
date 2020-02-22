@@ -311,7 +311,7 @@ public func main(text: String) -> ParsedResult? {
 }
 
 /* Current test execution phase: */
-let test_string = "I am going to the library tomorrow from 12 to 14:30"
+let test_string = "I am going to the library tomorrow at 12"
 
 var result = main(text: test_string)
 
