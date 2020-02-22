@@ -15,3 +15,6 @@ TODO
 ## AttributedStrings 
 
 My play with main concepts of attributed texts in swift. Learning based on [NSAttributedString by example](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)
+
+## Usage of Observer pattern in swift
+
